@@ -108,3 +108,38 @@ h1 {
   border-radius: 20px;
   text-decoration: none;
 }
+
+
+
+/* For Social */
+
+
+.social_btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: Open Sans;
+  font-size: 40px;
+  font-weight: 100;
+  padding: 40px;
+  background-color: #4AB19A;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #E0EBE8 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.social_btn:hover {
+  background: #91A9A5;
+  border: solid #E0EBE8 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
