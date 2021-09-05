@@ -124,10 +124,10 @@ h1 {
   font-weight: 600;
   padding: 10px;
   background-color: #4AB19A;
-  -webkit-box-shadow: 1px 1px 5px 0 #000000;
-  -moz-box-shadow: 1px 1px 5px 0 #000000;
-  box-shadow: 1px 1px 5px 0 #000000;
-  text-shadow: 1px 1px 5px #000000;
+  -webkit-box-shadow: 1px 1px 1px 0 #000000;
+  -moz-box-shadow: 1px 1px 1px 0 #000000;
+  box-shadow: 1px 1px 1px 0 #000000;
+  text-shadow: 1px 1px 1px #000000;
   border: solid #E0EBE8 1px;
   text-decoration: none;
   display: inline-block;
@@ -138,8 +138,8 @@ h1 {
 .social_btn:hover {
   background: #91A9A5;
   border: solid #E0EBE8 1px;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  border-radius: 5px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
   text-decoration: none;
 }
